@@ -11,3 +11,6 @@ In this project, we are interested solve the problem of in-band network telemetr
 Unfortunately, a graph G has an Euler path if and only if it has at most two vertices of odd-degree. An
 Euler circuit is a path that starts and ends at the same vertex. As we’ll see, in order to handle an arbitrary
 connected graph we may need to traverse each edge more than once.
+
+![Screenshot 2022-11-03 005519](https://user-images.githubusercontent.com/81000984/199671008-ea481b5e-a3f0-4c10-964f-fc7f5b96b7ce.png)
+
